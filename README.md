@@ -1,6 +1,12 @@
 # Website Vaksinasi COVID-19
 
-Website ini merupakan sebuah website mengenai informasi vaksinasi COVID-19. Website ini dibuat menggunakan [ Laravel 8](https://laravel.com)
+Website ini merupakan sebuah website mengenai informasi vaksinasi COVID-19. Pada website ini terdiri dari beberpa halaman, yaitu :
+- Landing Page
+- Halaman Login
+- Halaman Registrasi
+- Dasboard Admin
+- Halaman Tabel Data Berita Terkini (Admin)
+ Website ini dibuat menggunakan [ Laravel 8](https://laravel.com)
 
 Nama : Siti Sheilawati\
 NIM : 1810817220009
